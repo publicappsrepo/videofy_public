@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801678029619",
+    "project_id": "videofy-574d2",
+    "storage_bucket": "videofy-574d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801678029619:android:b39e797ac99ad69af04446",
+        "android_client_info": {
+          "package_name": "com.appsease.videofy_videoplayer.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNUOmY00ZIPiMO4XneYKUPP2WWVu6eLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
